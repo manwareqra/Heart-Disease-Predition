@@ -1,10 +1,10 @@
 # Heart-Disease-Predition
-ML pipeline comparing 5 algorithms (Logistic Regression, KNN, SVM) to predict heart disease risk using 10 patient biomarkers. Peak accuracy: 86.96%.
+ML pipeline comparing 5 algorithms (Logistic Regression, KNN, SVM) to predict heart disease risk using 10 patient attributes. Peak accuracy: 86.96%.
 
 This project builds a predictive pipeline to evaluate cardiovascular disease risk based on clinical patient data. It trains, evaluates, and benchmarks multiple classification algorithms to find the most accurate model. 
 
 Features:-
-The model analyzes 10 key patient health biomarkers: 
+The model analyzes 10 key patient health attributes: 
 Sex
 ChestPainType
 RestingBP
